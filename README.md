@@ -16,3 +16,7 @@ Demostrar cómo aplicar el algoritmo de clustering K-means en el famoso Iris Dat
 
 //Interpretación de Resultados
 El gráfico de dispersión muestra cómo las muestras se agrupan en tres clusters, lo que nos permite observar patrones de similitud entre las especies de flores.
+
+
+
+HECHO: Martin Sanchez Rangel
